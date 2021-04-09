@@ -2,7 +2,7 @@
 Design patterns clasification:
 Creational - creating things, in oop: objects
 Structural - helps create relationships between objects
-Behavioral - helps with objects interactions
+Behavioral - helps with objects interactions, used to control the operation of some objects
 """
 """
 Solid principles of OOP:
